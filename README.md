@@ -1,4 +1,4 @@
-# # Class Design and Implementation Case
+# # Class Design and Implementation Case 🛄
 1.(a) By making use of an example from the above scenario, distinguish between a class and an instantiation of a class. (3 points)
 >> A class acts as a template, defining the shared characteristics and behaviors.
 >
